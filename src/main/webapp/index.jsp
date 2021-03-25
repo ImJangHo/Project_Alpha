@@ -7,7 +7,7 @@
 <title>Alpha HomePage</title>
 </head>
 <body>
-	<header>
+	<header> 헤더입니다
 	</header>
 	<article>
 	</article>
